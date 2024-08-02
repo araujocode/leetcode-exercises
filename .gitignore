@@ -1,0 +1,34 @@
+# Diretórios de build
+bin/
+obj/
+
+# Arquivos de configuração do IDE
+.vscode/
+*.code-workspace
+
+# Arquivos de configuração do sistema
+*.user
+*.suo
+*.userosscache
+*.suo
+*.dmg
+*.log
+*.tmp
+*.swp
+*.sublime-workspace
+
+# Diretórios e arquivos específicos do .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+*.dbmdl
+*.bak
+
+# Dependências do NuGet
+*.nupkg
+*.snupkg
+*.dotnet/
+*.nuget/
+.nuget/
